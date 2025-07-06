@@ -1,0 +1,14 @@
+
+.elementoPrimero{
+    background-color: #000;
+    color:white
+}
+
+.elementoDos{
+    background-color: yellow;
+}
+
+.ambos{
+    font-size: 28px;
+    font-family: Helvetica, "Times new Roman", sans-serif ;
+}
