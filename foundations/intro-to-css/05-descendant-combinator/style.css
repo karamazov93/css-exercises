@@ -1,0 +1,23 @@
+
+
+
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* selector de tipo: solucion alternativa */
+div p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+
+
+/* Solo los elementos p que son descendientes del elemento div deben tener un fondo amarillo, texto rojo, un tamaño de fuente de 20px, y estar centrados. */
